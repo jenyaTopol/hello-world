@@ -14,3 +14,6 @@
   </div>
   <button type="submit" class="btn btn-primary">Submit</button>
 </form>
+<button type="button" class="btn btn-primary">
+  Notifications <span class="badge bg-secondary">4</span>
+</button>
